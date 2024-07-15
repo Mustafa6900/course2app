@@ -1,0 +1,8 @@
+<div class="task-design">
+    <div [ngClass]="{'task': true, 'completed-task': task.completed}">
+      {{ task.description }}
+      <button *ngIf="!task.completed" (click)="completeTask()">Görevi Tamamla</button>
+      <span *ngIf="task.completed" class="completed">✔</span>
+    </div>
+  </div>
+  

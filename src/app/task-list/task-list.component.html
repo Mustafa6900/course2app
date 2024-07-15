@@ -1,0 +1,7 @@
+<div *ngIf="selectedPerson">
+    <h2>{{ selectedPerson.name }}'nin Görevleri</h2>
+    <app-task *ngFor="let task of selectedPerson.tasks" 
+              [task]="task"
+              (taskCompleted)="completeTask($event)">
+    </app-task>
+  </div>

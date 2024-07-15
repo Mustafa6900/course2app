@@ -1,0 +1,7 @@
+<div class="button-container">
+    <button *ngFor="let person of people" (click)="selectPerson(person)">
+      <img [src]="person.avatar" [alt]="person.name">
+      {{ person.name }}
+    </button>
+  </div>
+  

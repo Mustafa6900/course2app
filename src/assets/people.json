@@ -1,0 +1,106 @@
+{
+    "people": [
+      {
+        "id": 1,
+        "name": "Ali",
+        "avatar": "assets/ali.jpg",
+        "tasks": [
+          {
+            "id": 1,
+            "description": "Rapor hazırla",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "description": "Toplantı düzenle",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Ayşe",
+        "avatar": "assets/ayse.jpg",
+        "tasks": [
+          {
+            "id": 3,
+            "description": "Proje planı oluştur",
+            "completed": false
+          },
+          {
+            "id": 4,
+            "description": "Müşteri görüşmesi",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Mehmet",
+        "avatar": "assets/ali.jpg",
+        "tasks": [
+          {
+            "id": 5,
+            "description": "Kod incelemesi yap",
+            "completed": false
+          },
+          {
+            "id": 6,
+            "description": "Hata düzeltmesi",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Zeynep",
+        "avatar": "assets/ayse.jpg",
+        "tasks": [
+          {
+            "id": 7,
+            "description": "Sunum hazırla",
+            "completed": false
+          },
+          {
+            "id": 8,
+            "description": "Ekip toplantısı",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Emre",
+        "avatar": "assets/ali.jpg",
+        "tasks": [
+          {
+            "id": 9,
+            "description": "Veritabanı optimizasyonu",
+            "completed": false
+          },
+          {
+            "id": 10,
+            "description": "Yeni özellik geliştirme",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Selin",
+        "avatar": "assets/ayse.jpg",
+        "tasks": [
+          {
+            "id": 11,
+            "description": "Kullanıcı araştırması",
+            "completed": false
+          },
+          {
+            "id": 12,
+            "description": "Tasarım revizyonu",
+            "completed": false
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,45 @@
+.task-design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color: #cbcbcb;
+    width: 50%;
+    height: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    font-weight:400;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .completed-task {
+    background-color: #45a049; /* Yeşil arka plan rengi */
+    border-color: #45a049;
+    color:white;
+  }
+  
