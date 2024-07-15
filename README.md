@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
 
+## Project İmage
+
+![image](https://github.com/user-attachments/assets/fa330807-c4ab-4f22-8be3-6dc9501b3150)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
